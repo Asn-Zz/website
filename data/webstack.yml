@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 国内直连
   icon: far fa-star
   links:
     - title: ChatGPT
@@ -12,7 +12,7 @@
       url: https://bing.codepoem.top/
       description: 微软推出的新版结合了ChatGPT功能的必应
     - title: Promat GPT
-      logo: openai-gpt-model.png
+      logo: chatgpt-icon.png
       url: https://promat.codepoem.top/
       description: 自带 Promat 的 ChatGPT
     - title: AI快讯
@@ -27,12 +27,8 @@
 - taxonomy: 基础服务
   icon: fas fa-flask fa-lg
   list:
-    - term: 登录帮助
+    - term: 登录相关
       links:
-        - title: pandora
-          logo: github-copilot-icon.png
-          url: https://github.com/pengzhile/pandora
-          description: 潘多拉，一个让你呼吸顺畅的ChatGPT。
         - title: Access Token
           logo: github-copilot-icon.png
           url: https://ai.fakeopen.com/auth1
@@ -45,6 +41,10 @@
           logo: github-copilot-icon.png
           url: https://ai.fakeopen.com/pool
           description: 把Share Tokens组成池令牌，以便API使用时并发。
+        - title: pandora
+          logo: github-copilot-icon.png
+          url: https://github.com/pengzhile/pandora
+          description: 潘多拉，一个让你呼吸顺畅的ChatGPT。
     - term: 账号出售
       links:
         - title: ChatGptHao
@@ -78,5 +78,30 @@
           url: https://ttsmaker.com/zh-cn
           description: 免费文字转语音
 
-- taxonomy: 其它
+- taxonomy: 相关资料
   icon: far fa-folder-open fa-lg
+  list:
+    - term: 知识分享
+      links:
+        - title: AI研究所
+          logo: aidaxue-icon.png
+          url: https://www.aiyjs.com/
+          description: 国内外AI工具资讯首发站
+        - title: AI智库
+          logo: feishu-minutes-icon.png
+          url: https://ki6j1b0d92h.feishu.cn/wiki/wikcnkdKkLz7Xh4O6JEdKyn8cMf
+          description: AI 行业动态不定期更新
+        - title: AI产品工具服务
+          logo: feishu-minutes-icon.png
+          url: https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB
+          description: AI产品工具服务。
+        - title: GPT学术论文分析
+          logo: feishu-minutes-icon.png
+          url: https://ai.fakeopen.com/pool
+          description: GPT/AIGC/LLM/NLP/ChatGPT 学习。
+    - term: 帮助文档
+      links:
+        - title: 开通GPT Plus会员
+          logo: openai-gpt-model.png
+          url: https://mp.weixin.qq.com/s/1SZMgzQM0Y3IaAhAt2ZjSA
+          description: 骚操作！教你用支付宝开通GPT Plus会员
