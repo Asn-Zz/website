@@ -6,7 +6,6 @@
     - title: ChatGPT
       logo: chatgpt-icon.png
       url: https://chat.codepoem.top/
-      qrcode: chatgpt-icon.png
       description: OpenAI旗下AI对话工具
     - title: Bing新必应
       logo: new-bing-icon.png
@@ -20,27 +19,63 @@
       logo: quora-poe-icon.png
       url: https://ai-bot.cn/
       description: AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站
+    - title: 其它站点
+      logo: elements-of-ai-icon.png
+      url: https://cc.ai55.cc/
+      description: 这儿为你准备了众多免费好用的ChatGPT镜像站点 
 
 - taxonomy: 基础服务
   icon: fas fa-flask fa-lg
   list:
     - term: 登录帮助
       links:
-        - title: NCBI
+        - title: pandora
           logo: github-copilot-icon.png
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
+          url: https://github.com/pengzhile/pandora
+          description: 潘多拉，一个让你呼吸顺畅的ChatGPT。
+        - title: Access Token
+          logo: github-copilot-icon.png
+          url: https://ai.fakeopen.com/auth1
+          description: 帮助获取 ChatGPT Access Token。
+        - title: Share Token
+          logo: github-copilot-icon.png
+          url: https://ai.fakeopen.com/token
+          description: 安全地分享Access Token。
+        - title: Pool Token
+          logo: github-copilot-icon.png
+          url: https://ai.fakeopen.com/pool
+          description: 把Share Tokens组成池令牌，以便API使用时并发。
     - term: 账号出售
       links:
-        - title: 阿里云
-          logo: github-copilot-icon.png
+        - title: ChatGptHao
+          logo: aliyun-icon.png
+          url: https://www.chatgpthao.com/
+          description: ChatGPT plus账号购买,Midjourney订阅OpenAI账户购买ChatGPT-4批发出售,ChatGPT账号购买
+        - title: 自助购卡商城
+          logo: aliyun-icon.png
           url: https://www.aliyun.com/
-          description: 上云就上阿里云。
+          description: 主营各国苹果id账号批发零售、谷歌账号、推特账号、Instagram账号等批发零售，以及shadowrocket小火箭、quantumult、quantumult x兑换码成品号批发零售等等
+        - title: 51chatgpt
+          logo: aliyun-icon.png
+          url: https://www.51chatgpt.info/
+          description: 账号批发。
     - term: AIGC
       links:
-        - title: 有道词典
-          logo: github-copilot-icon.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
+        - title: BibiGPT 
+          logo: stablelm-icon.png
+          url: https://b.jimmylv.cn/#
+          description: AI 音视频内容一键总结
+        - title: 通义听悟 
+          logo: tingwu-icon.png
+          url: https://tingwu.aliyun.com/home
+          description: 通义听悟,AI助手,学习笔记,会议记录,音视频,转文字,语音翻译
+        - title: ChatPDF 
+          logo: translate-voclengine-icon.png
+          url: https://www.chatpdf.com/
+          description: 识别并解析pdf
+        - title: ttsmaker 
+          logo: ibm-watson-icon.png
+          url: https://ttsmaker.com/zh-cn
+          description: 免费文字转语音
 
 - taxonomy: 其它
