@@ -14,11 +14,11 @@
       description: 微软推出的新版结合了ChatGPT功能的必应
     - title: Promat GPT
       logo: openai-gpt-model.png
-      url: "https://promat.codepoem.top/"
+      url: https://promat.codepoem.top/
       description: 自带 Promat 的 ChatGPT
     - title: AI快讯
       logo: quora-poe-icon.png
-      url: "https://ai-bot.cn/"
+      url: https://ai-bot.cn/
       description: AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站
 
 - taxonomy: 基础服务
