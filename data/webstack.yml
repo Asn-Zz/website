@@ -12,17 +12,13 @@
       url: https://bing.codepoem.top/
       description: 微软推出的新版结合了ChatGPT功能的必应
     - title: Promat GPT
-      logo: chatgpt-icon.png
+      logo: rytr-me-icon.png
       url: https://promat.codepoem.top/
       description: 自带 Promat 的 ChatGPT
     - title: AI快讯
-      logo: quora-poe-icon.png
+      logo: xiezuocat-ai-icon.png
       url: https://ai-bot.cn/
       description: AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站
-    - title: 其它站点
-      logo: elements-of-ai-icon.png
-      url: https://cc.ai55.cc/
-      description: 这儿为你准备了众多免费好用的ChatGPT镜像站点 
 
 - taxonomy: 基础服务
   icon: fas fa-flask fa-lg
@@ -41,24 +37,40 @@
           logo: github-copilot-icon.png
           url: https://ai.fakeopen.com/pool
           description: 把Share Tokens组成池令牌，以便API使用时并发。
-        - title: pandora
+        - title: PigCha
+          logo: github-copilot-icon.png
+          url: http://run.weaksharedptr.com/register?share_id=e90183e1-d736-4400-a6c6-096014055e2f
+          description: 这就是你要的网络加速专业工具，安全稳定，极简设计
+        - title: Pandora
           logo: github-copilot-icon.png
           url: https://github.com/pengzhile/pandora
           description: 潘多拉，一个让你呼吸顺畅的ChatGPT。
-    - term: 账号出售
+        - title: 其它站点 ✈️
+          logo: elements-of-ai-icon.png
+          url: https://cc.ai55.cc/
+          description: 这儿为你准备了众多免费好用的ChatGPT镜像站点 
+    - term: 账号相关 ✈️
       links:
-        - title: ChatGptHao
+        - title: ChatGPTHao
           logo: aliyun-icon.png
           url: https://www.chatgpthao.com/
           description: ChatGPT plus账号购买,Midjourney订阅OpenAI账户购买ChatGPT-4批发出售,ChatGPT账号购买
         - title: 自助购卡商城
           logo: aliyun-icon.png
           url: https://www.aliyun.com/
-          description: 主营各国苹果id账号批发零售、谷歌账号、推特账号、Instagram账号等批发零售，以及shadowrocket小火箭、quantumult、quantumult x兑换码成品号批发零售等等
-        - title: 51chatgpt
+          description: 苹果id账号批发零售、谷歌账号、推特账号、Instagram账号等批发零售，以及shadowrocket小火箭、quantumult、quantumult x兑换码成品号批发零售等等
+        - title: 51ChatGPT
           logo: aliyun-icon.png
           url: https://www.51chatgpt.info/
           description: 账号批发。
+        - title: SMS-Activate
+          logo: aliyun-icon.png
+          url: https://sms-activate.org/cn
+          description: 在线接受短信的虚拟号码服务
+        - title: 美国地址生成器
+          logo: aliyun-icon.png
+          url: https://www.meiguodizhi.com/
+          description: 美国身份、信用卡生成器
     - term: AIGC
       links:
         - title: BibiGPT 
@@ -101,7 +113,11 @@
           description: GPT/AIGC/LLM/NLP/ChatGPT 学习。
     - term: 帮助文档
       links:
-        - title: 开通GPT Plus会员
+        - title: 开通 GPT Plus会员
           logo: openai-gpt-model.png
           url: https://mp.weixin.qq.com/s/1SZMgzQM0Y3IaAhAt2ZjSA
           description: 骚操作！教你用支付宝开通GPT Plus会员
+        - title: 国内使用 Midjourney
+          logo: midjourney-icon.png
+          url: https://mp.weixin.qq.com/s/jC2XqnsFRRdWLDjF5cy9KA
+          description: Midjourney进军Slack，直连前5代免费，赶快尝试吧！
