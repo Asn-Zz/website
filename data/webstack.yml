@@ -52,23 +52,18 @@
     - term: 账号相关 ✈️
       links:
         - title: ChatGPTHao
-          logo: aliyun-icon.png
           url: https://www.chatgpthao.com/
           description: ChatGPT plus账号购买,Midjourney订阅OpenAI账户购买ChatGPT-4批发出售,ChatGPT账号购买
         - title: 自助购卡商城
-          logo: aliyun-icon.png
           url: https://www.aliyun.com/
           description: 苹果id账号批发零售、谷歌账号、推特账号、Instagram账号等批发零售，以及shadowrocket小火箭、quantumult、quantumult x兑换码成品号批发零售等等
         - title: 51ChatGPT
-          logo: aliyun-icon.png
           url: https://www.51chatgpt.info/
           description: 账号批发。
         - title: SMS-Activate
-          logo: aliyun-icon.png
           url: https://sms-activate.org/cn
           description: 在线接受短信的虚拟号码服务
         - title: 美国地址生成器
-          logo: aliyun-icon.png
           url: https://www.meiguodizhi.com/
           description: 美国身份、信用卡生成器
     - term: AIGC
