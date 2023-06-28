@@ -97,11 +97,14 @@
           description: 这儿为你准备了众多免费好用的ChatGPT镜像站点 
     - term: 账号相关 ✈️
       links:
+        - title: 账号批发
+          url: https://fk.gpt0.icu/
+          description: 账号购买批发出售
         - title: ChatGPTHao
           url: https://www.chatgpthao.com/
           description: ChatGPT plus账号购买,Midjourney订阅OpenAI账户购买ChatGPT-4批发出售,ChatGPT账号购买
         - title: 自助购卡商城
-          url: https://www.aliyun.com/
+          url: https://appsir.shop/
           description: 苹果id账号批发零售、谷歌账号、推特账号、Instagram账号等批发零售，以及shadowrocket小火箭、quantumult、quantumult x兑换码成品号批发零售等等
         - title: 51ChatGPT
           url: https://www.51chatgpt.info/
