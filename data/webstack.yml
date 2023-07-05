@@ -16,7 +16,11 @@
         - title: Promat GPT
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
-          description: 自带 Promat 的 ChatGPT
+          description: 自带快捷指令
+        - title: 快捷指令
+          logo: mask-icon.svg
+          url: https://mask.codepoem.top/
+          description: 快捷指令大全
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -87,6 +91,10 @@
           logo: github-copilot-icon.png
           url: http://run.weaksharedptr.com/register?share_id=e90183e1-d736-4400-a6c6-096014055e2f
           description: 这就是你要的网络加速专业工具，安全稳定，极简设计
+        - title: Warp+
+          logo: github-copilot-icon.png
+          url: https://1.1.1.1/
+          description: CLOUDFLARE 出品的VPN
         - title: Pandora
           logo: github-copilot-icon.png
           url: https://github.com/pengzhile/pandora
