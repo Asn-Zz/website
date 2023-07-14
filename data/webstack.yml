@@ -13,6 +13,10 @@
           logo: new-bing-icon.png
           url: https://bing.codepoem.top/
           description: 微软推出的新版结合了ChatGPT功能的必应
+        - title: Auto-GPT
+          logo: autogpt-icon.png
+          url: https://auto.codepoem.top/
+          description: 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星
         - title: Promat GPT
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
