@@ -39,12 +39,20 @@
           logo: new-bing-icon.png
           url: https://bing.vcanbb.top/web/#/
           description: 微软推出的新版结合了ChatGPT功能的必应
+        - title: Auto-GPT
+          logo: autogpt-icon.png
+          url: https://agentgpt.reworkd.ai/zh
+          description: 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星
     - term: 官方网站 ✈️
       links:
         - title: ChatGPT
           logo: chatgpt-icon.png
           url: https://chat.openai.com/
           description: OpenAI旗下AI对话工具
+        - title: Claude
+          logo: anthropic-icon.png
+          url: https://claude.ai/
+          description: ChatGPT的最为有力的竞争对手之一
         - title: Google Bard
           logo: google-bard-favicon.png
           url: https://bard.google.com/
