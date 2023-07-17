@@ -9,15 +9,20 @@
           logo: chatgpt-icon.png
           url: https://chat.codepoem.top/
           description: OpenAI旗下AI对话工具
-        - title: Bing新必应
+        - title: New Bing
           logo: new-bing-icon.png
           url: https://bing.codepoem.top/
-          description: 微软推出的新版结合了ChatGPT功能的必应
-        - title: Auto-GPT
+          description: 结合了ChatGPT功能的必应
+        - title: AutoGPT
           logo: autogpt-icon.png
           url: https://auto.codepoem.top/
-          description: 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星
-        - title: Promat GPT
+          description: 实现GPT-4完全自主的实验性开源项目
+        - title: WeChatGPT
+          logo: wechat-icon.png
+          url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
+          qrcode: assets/images/logos/qrcode.png
+          description: 你的私人微信机器人
+        - title: WebBotGPT
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
           description: 自带快捷指令
@@ -35,14 +40,18 @@
           logo: chatgpt-icon.png
           url: https://chat.zhile.io/
           description: OpenAI旗下AI对话工具
-        - title: Bing新必应
+        - title: New Bing
           logo: new-bing-icon.png
           url: https://bing.vcanbb.top/web/#/
-          description: 微软推出的新版结合了ChatGPT功能的必应
-        - title: Auto-GPT
+          description: 结合了ChatGPT功能的必应
+        - title: AutoGPT
           logo: autogpt-icon.png
-          url: https://agentgpt.reworkd.ai/zh
-          description: 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星
+          url: https://auto-agentgpt.com/
+          description: 实现GPT-4完全自主的实验性开源项目
+        - title: AI Playground ✈️
+          logo: vercel-icon.png
+          url: https://sdk.vercel.ai/
+          description: AI多模型演练场
     - term: 官方网站 ✈️
       links:
         - title: ChatGPT
