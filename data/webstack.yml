@@ -34,6 +34,10 @@
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
           description: AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站
+        - title: Jay仓库
+          logo: jay-icon.png
+          url: https://www.likejay.cn/
+          description: 互联网资源集大成者
     - term: 备用
       links:
         - title: ChatGPT
@@ -182,6 +186,44 @@
         - title: 美国地址生成器
           url: https://www.meiguodizhi.com/
           description: 美国身份、信用卡生成器
+
+- taxonomy: 相关资料
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: 知识分享
+      links:
+        - title: InfoQ
+          logo: aidaxue-icon.png
+          url: https://www.infoq.cn/
+          description: 促进软件开发及相关领域知识与创新的传播
+        - title: 量子位
+          logo: aidaxue-icon.png
+          url: https://www.qbitai.com/
+          description: 追踪人工智能新趋势，报道科技行业新突破
+        - title: 机器之心
+          logo: aidaxue-icon.png
+          url: https://www.jiqizhixin.com/
+          description: 企业人工智能服务
+        - title: AI研究所
+          logo: aidaxue-icon.png
+          url: https://www.aiyjs.com/
+          description: 国内外AI工具资讯首发站
+        - title: AI智库
+          logo: feishu-minutes-icon.png
+          url: https://ki6j1b0d92h.feishu.cn/wiki/wikcnkdKkLz7Xh4O6JEdKyn8cMf
+          description: AI 行业动态不定期更新
+        - title: AI产品工具服务
+          logo: feishu-minutes-icon.png
+          url: https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB
+          description: AI产品工具服务。
+        - title: GPT 开源项目
+          logo: github-copilot-icon.png
+          url: https://github.com/EwingYangs/awesome-open-gpt
+          description: gpt相关开源项目合集
+        - title: ChatGPT 中文调教指南
+          logo: github-copilot-icon.png
+          url: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+          description: 各种场景使用指南，学习怎么让它听你的话。
     - term: AIGC
       links:
         - title: BibiGPT 
@@ -200,28 +242,6 @@
           logo: ibm-watson-icon.png
           url: https://ttsmaker.com/zh-cn
           description: 免费文字转语音
-
-- taxonomy: 相关资料
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 知识分享
-      links:
-        - title: AI研究所
-          logo: aidaxue-icon.png
-          url: https://www.aiyjs.com/
-          description: 国内外AI工具资讯首发站
-        - title: AI智库
-          logo: feishu-minutes-icon.png
-          url: https://ki6j1b0d92h.feishu.cn/wiki/wikcnkdKkLz7Xh4O6JEdKyn8cMf
-          description: AI 行业动态不定期更新
-        - title: AI产品工具服务
-          logo: feishu-minutes-icon.png
-          url: https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB
-          description: AI产品工具服务。
-        - title: GPT学术论文分析
-          logo: feishu-minutes-icon.png
-          url: https://ai.fakeopen.com/pool
-          description: GPT/AIGC/LLM/NLP/ChatGPT 学习。
     - term: 帮助文档
       links:
         - title: 开通 GPT Plus会员
