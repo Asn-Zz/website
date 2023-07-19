@@ -17,11 +17,6 @@
           logo: autogpt-icon.png
           url: https://auto.codepoem.top/
           description: 实现GPT-4完全自主的实验性开源项目
-        - title: WeChatGPT
-          logo: wechat-icon.png
-          url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
-          qrcode: assets/images/logos/qrcode.png
-          description: 你的私人微信机器人
         - title: WebBotGPT
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
@@ -30,6 +25,11 @@
           logo: mask-icon.svg
           url: https://mask.codepoem.top/
           description: 快捷指令大全
+        - title: WeChatGPT(研发中)
+          logo: wechat-icon.png
+          url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
+          qrcode: assets/images/logos/qrcode.png
+          description: 你的私人微信机器人
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -48,10 +48,14 @@
           logo: autogpt-icon.png
           url: https://auto-agentgpt.com/
           description: 实现GPT-4完全自主的实验性开源项目
-        - title: AI Playground ✈️
-          logo: vercel-icon.png
-          url: https://sdk.vercel.ai/
-          description: AI多模型演练场
+        - title: WebBotGPT
+          logo: rytr-me-icon.png
+          url: https://chatgpt1.nextweb.fun/
+          description: 自带快捷指令
+        - title: 快捷指令
+          logo: mask-icon.svg
+          url: https://www.aishort.top/
+          description: 快捷指令大全
     - term: 官方网站 ✈️
       links:
         - title: ChatGPT
@@ -78,6 +82,10 @@
           logo: midjourney-icon.png
           url: https://www.midjourney.com/
           description: AI图像和插画生成工具
+        - title: ClipDrop
+          logo: clipdrop-icon.png
+          url: https://clipdrop.co/
+          description: AI图片处理系列工具
         - title: 文心一言
           logo: baidu-yiyan-icon.png
           url: https://yiyan.baidu.com/
@@ -90,6 +98,14 @@
           logo: tongyi-aliyun-icon.png
           url: https://tongyi.aliyun.com/
           description: 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+        - title: AI Playground
+          logo: vercel-icon.png
+          url: https://sdk.vercel.ai/docs
+          description: AI多模型演练场
+        - title: MaxAI.me
+          logo: maxaime-icon.svg
+          url: https://www.maxai.me/
+          description: AI多模型演练场
 
 - taxonomy: 基础服务
   icon: fas fa-flask fa-lg
@@ -123,7 +139,29 @@
         - title: 其它站点 ✈️
           logo: elements-of-ai-icon.png
           url: https://cc.ai55.cc/
-          description: 这儿为你准备了众多免费好用的ChatGPT镜像站点 
+          description: 这儿为你准备了众多免费好用的ChatGPT镜像站点
+    - term: 脚本相关
+      links:
+        - title: Greasy Fork
+          logo: tampermonkey-icon.png
+          url: https://greasyfork.org/
+          description: 安全、 实用的用户脚本大全
+        - title: KeepChatGPT
+          logo: tampermonkey-icon.png
+          url: https://greasyfork.org/zh-CN/scripts/462804-keepchatgpt
+          description: ChatGPT的畅聊与增强插件
+        - title: WebChatGPT
+          logo: google-icon.png
+          url: https://tools.zmo.ai/webchatgpt
+          description: 可连上网访问互联网的ChatGPT
+        - title: BingChat for Google
+          logo: google-icon.png
+          url: https://github.com/anaclumos/bing-chat-for-all-browsers/releases/tag/1.0.7
+          description: 在Chrome、Firefox等浏览器上访问必应聊天
+        - title: ChatGPT for Google
+          logo: sider-icon.png
+          url: https://chatgpt4google.com/
+          description: ChatGPT侧边栏
     - term: 账号相关 ✈️
       links:
         - title: 账号批发
