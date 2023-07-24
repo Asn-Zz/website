@@ -21,15 +21,19 @@
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
           description: 自带快捷指令
-        - title: 快捷指令
-          logo: mask-icon.svg
-          url: https://mask.codepoem.top/
-          description: 快捷指令大全
-        - title: WeChatGPT(研发中)
+        - title: FreeGPT
+          logo: openai-gpt-model.png
+          url: https://chat.ramxn.dev/chat/
+          description: GPT 3.5/4，不需要API密钥
+        - title: 📴 WeChatGPT
           logo: wechat-icon.png
           url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
           qrcode: assets/images/logos/qrcode.png
           description: 你的私人微信机器人
+        - title: 快捷指令
+          logo: mask-icon.svg
+          url: https://mask.codepoem.top/
+          description: 快捷指令大全
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -106,9 +110,9 @@
           logo: vercel-icon.png
           url: https://sdk.vercel.ai/docs
           description: AI多模型演练场
-        - title: MaxAI.me
+        - title: ChatALL
           logo: maxaime-icon.svg
-          url: https://www.maxai.me/
+          url: https://github.com/sunner/ChatALL
           description: AI多模型演练场
 
 - taxonomy: 基础服务
@@ -139,7 +143,7 @@
         - title: Pandora
           logo: github-copilot-icon.png
           url: https://github.com/pengzhile/pandora
-          description: 潘多拉，一个让你呼吸顺畅的ChatGPT。
+          description: ChatGPT Web browser by token
         - title: 其它站点 ✈️
           logo: elements-of-ai-icon.png
           url: https://cc.ai55.cc/
@@ -158,6 +162,10 @@
           logo: google-icon.png
           url: https://tools.zmo.ai/webchatgpt
           description: 可连上网访问互联网的ChatGPT
+        - title: WebPilot
+          logo: google-icon.png
+          url: https://tools.zmo.ai/webchatgpt
+          description: 基于ChatGPT的网页分析
         - title: BingChat for Google
           logo: google-icon.png
           url: https://github.com/anaclumos/bing-chat-for-all-browsers/releases/tag/1.0.7
