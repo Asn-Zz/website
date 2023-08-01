@@ -234,22 +234,26 @@
           description: 各种场景使用指南，学习怎么让它听你的话。
     - term: AIGC
       links:
-        - title: BibiGPT 
+        - title: Playground Ai 
           logo: stablelm-icon.png
-          url: https://b.jimmylv.cn/#
-          description: AI 音视频内容一键总结
-        - title: 通义听悟 
+          url: https://playgroundai.com/create
+          description: 文、图生图 1k/day(SDXL)
+        - title: CivitAi 
           logo: tingwu-icon.png
-          url: https://tingwu.aliyun.com/home
-          description: 通义听悟,AI助手,学习笔记,会议记录,音视频,转文字,语音翻译
-        - title: ChatPDF 
-          logo: translate-voclengine-icon.png
-          url: https://www.chatpdf.com/
-          description: 识别并解析pdf
-        - title: ttsmaker 
+          url: https://civitai.com/
+          description: 开源大模型示例
+        - title: SD web UI 
           logo: ibm-watson-icon.png
-          url: https://ttsmaker.com/zh-cn
-          description: 免费文字转语音
+          url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
+          description: Stable Diffusion整合包
+        - title: ComfyUI 
+          logo: ibm-watson-icon.png
+          url: https://github.com/comfyanonymous/ComfyUI
+          description: 功能强大且模块化的稳定扩散GUI，具有图形/节点界面。
+        - title: roop-win-GUI 
+          logo: translate-voclengine-icon.png
+          url: https://github.com/zhaoyun0071/roop-windows-GUI
+          description: roop换脸工具
     - term: 帮助文档
       links:
         - title: 开通 GPT Plus会员
