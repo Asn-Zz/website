@@ -17,23 +17,18 @@
           logo: autogpt-icon.png
           url: https://auto.codepoem.top/
           description: 实现GPT-4完全自主的实验性开源项目
-        - title: WebBotGPT
+        - title: Promat GPT
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
           description: 自带快捷指令
-        - title: FreeGPT
-          logo: openai-gpt-model.png
-          url: https://chat.ramxn.dev/chat/
-          description: GPT 3.5/4，不需要API密钥
-        - title: 📴 WeChatGPT
-          logo: wechat-icon.png
-          url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
-          qrcode: assets/images/logos/qrcode.png
-          description: 你的私人微信机器人
         - title: 快捷指令
           logo: mask-icon.svg
           url: https://mask.codepoem.top/
           description: 快捷指令大全
+        - title: FreeGPT
+          logo: openai-gpt-model.png
+          url: https://chat.ramxn.dev/chat/
+          description: GPT 3.5/4，不需要API密钥
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -56,7 +51,7 @@
           logo: autogpt-icon.png
           url: https://auto-agentgpt.com/
           description: 实现GPT-4完全自主的实验性开源项目
-        - title: WebBotGPT
+        - title: Promat GPT
           logo: rytr-me-icon.png
           url: https://chatgpt1.nextweb.fun/
           description: 自带快捷指令
@@ -110,6 +105,29 @@
           logo: maxaime-icon.svg
           url: https://github.com/sunner/ChatALL
           description: AI多模型演练场
+    - term: 相关应用 ✈️
+      links:
+        - title: OpenGPT
+          logo: opengpt-icon.png
+          url: https://open-gpt.app/zh
+          description: 海量的 ChatGPT 应用，创建属于自己的应用。
+        - title: FLOWGPT
+          logo: flowgpt-icon.png
+          url: https://flowgpt.com/
+          description: 查找并使用最佳提示词
+        - title: Quivr
+          logo: quivr-icon.png
+          url: https://www.quivr.app/
+          description: 文件分析工具
+        - title: 📴 WeChatGPT
+          logo: wechat-icon.png
+          url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
+          qrcode: assets/images/logos/qrcode.png
+          description: 你的私人微信机器人
+        - title: 📴 RunJS
+          logo: runjs-icon.png
+          url: https://runjs.work/code-converter/
+          description: 代码在线转换
 
 - taxonomy: 基础服务
   icon: fas fa-flask fa-lg
