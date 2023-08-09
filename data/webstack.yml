@@ -86,14 +86,6 @@
           logo: quora-poe-icon.png
           url: https://poe.com/ChatGPT
           description: 问答社区Quora推出的问答机器人工具
-        - title: Midjourney
-          logo: midjourney-icon.png
-          url: https://www.midjourney.com/
-          description: AI图像和插画生成工具
-        - title: ClipDrop
-          logo: clipdrop-icon.png
-          url: https://clipdrop.co/
-          description: AI图片处理系列工具
         - title: 文心一言
           logo: baidu-yiyan-icon.png
           url: https://yiyan.baidu.com/
@@ -106,6 +98,10 @@
           logo: tongyi-aliyun-icon.png
           url: https://tongyi.aliyun.com/
           description: 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+        - title: Perplexity AI
+          logo: perplexity-icon.png
+          url: https://www.perplexity.ai/
+          description: 可联网的ChatGPT3.5，类Bing Chat
         - title: AI Playground
           logo: vercel-icon.png
           url: https://sdk.vercel.ai/docs
@@ -234,10 +230,18 @@
           description: 各种场景使用指南，学习怎么让它听你的话。
     - term: AIGC
       links:
+        - title: Midjourney
+          logo: midjourney-icon.png
+          url: https://www.midjourney.com/
+          description: AI图像和插画生成工具
         - title: Playground Ai 
           logo: stablelm-icon.png
           url: https://playgroundai.com/create
           description: 文、图生图 1k/day(SDXL)
+        - title: ClipDrop
+          logo: clipdrop-icon.png
+          url: https://clipdrop.co/
+          description: AI图片处理系列工具
         - title: CivitAi 
           logo: tingwu-icon.png
           url: https://civitai.com/
