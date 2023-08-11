@@ -13,22 +13,22 @@
           logo: new-bing-icon.png
           url: https://bing.codepoem.top/
           description: 结合了ChatGPT功能的必应
-        - title: AutoGPT
-          logo: autogpt-icon.png
-          url: https://auto.codepoem.top/
-          description: 实现GPT-4完全自主的实验性开源项目
         - title: Promat GPT
           logo: rytr-me-icon.png
           url: https://promat.codepoem.top/
           description: 自带快捷指令
+        - title: AutoGPT
+          logo: autogpt-icon.png
+          url: https://auto.codepoem.top/
+          description: 实现GPT-4完全自主的实验性开源项目
         - title: 快捷指令
           logo: mask-icon.svg
           url: https://mask.codepoem.top/
           description: 快捷指令大全
-        - title: FreeGPT
-          logo: openai-gpt-model.png
-          url: https://chat.ramxn.dev/chat/
-          description: GPT 3.5/4，不需要API密钥
+        - title: Stable Studio
+          logo: dream-icon.png
+          url: https://dream.codepoem.top/
+          description: AI在线绘画(SDXL)
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -47,18 +47,22 @@
           logo: new-bing-icon.png
           url: https://bing.github1s.tk/
           description: 结合了ChatGPT功能的必应
-        - title: AutoGPT
-          logo: autogpt-icon.png
-          url: https://auto-agentgpt.com/
-          description: 实现GPT-4完全自主的实验性开源项目
         - title: Promat GPT
           logo: rytr-me-icon.png
           url: https://chatgpt1.nextweb.fun/
           description: 自带快捷指令
+        - title: AutoGPT
+          logo: autogpt-icon.png
+          url: https://auto-agentgpt.com/
+          description: 实现GPT-4完全自主的实验性开源项目
         - title: 快捷指令
           logo: mask-icon.svg
           url: https://www.aishort.top/
           description: 快捷指令大全
+        - title: Stable Studio
+          logo: dream-icon.png
+          url: https://beta.dreamstudio.ai/
+          description: AI在线绘画(SDXL)
     - term: 官方网站 ✈️
       links:
         - title: ChatGPT
@@ -73,14 +77,6 @@
           logo: google-bard-favicon.png
           url: https://bard.google.com/
           description: Google推出的AI聊天对话机器人Bard
-        - title: Forefront
-          logo: forefront-ai-icon.png
-          url: https://www.forefront.ai/
-          description: 免费版基于GPT-4的AI聊天机器人
-        - title: Poe
-          logo: quora-poe-icon.png
-          url: https://poe.com/ChatGPT
-          description: 问答社区Quora推出的问答机器人工具
         - title: 文心一言
           logo: baidu-yiyan-icon.png
           url: https://yiyan.baidu.com/
@@ -93,6 +89,18 @@
           logo: tongyi-aliyun-icon.png
           url: https://tongyi.aliyun.com/
           description: 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+        - title: Forefront
+          logo: forefront-ai-icon.png
+          url: https://www.forefront.ai/
+          description: 免费版基于GPT-4的AI聊天机器人
+        - title: Poe
+          logo: quora-poe-icon.png
+          url: https://poe.com/ChatGPT
+          description: 问答社区Quora推出的问答机器人工具
+        - title: ChatALL
+          logo: maxaime-icon.svg
+          url: https://github.com/sunner/ChatALL
+          description: AI多模型演练场
         - title: Perplexity AI
           logo: perplexity-icon.png
           url: https://www.perplexity.ai/
@@ -101,10 +109,10 @@
           logo: vercel-icon.png
           url: https://sdk.vercel.ai/docs
           description: AI多模型演练场
-        - title: ChatALL
-          logo: maxaime-icon.svg
-          url: https://github.com/sunner/ChatALL
-          description: AI多模型演练场
+        - title: FreeGPT
+          logo: openai-gpt-model.png
+          url: https://chat.ramxn.dev/chat/
+          description: GPT 3.5/4，不需要API密钥
     - term: 相关应用 ✈️
       links:
         - title: OpenGPT
@@ -124,7 +132,7 @@
           url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
           qrcode: assets/images/logos/qrcode.png
           description: 你的私人微信机器人
-        - title: 📴 RunJS
+        - title: RunJS
           logo: runjs-icon.png
           url: https://runjs.work/code-converter/
           description: 代码在线转换
@@ -172,6 +180,10 @@
           logo: tampermonkey-icon.png
           url: https://greasyfork.org/zh-CN/scripts/462804-keepchatgpt
           description: ChatGPT的畅聊与增强插件
+        - title: Superpower ChatGPT
+          logo: google-icon.png
+          url: https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?hl=zh-CN
+          description: 本地同步 / 搜索历史记录
         - title: WebChatGPT
           logo: google-icon.png
           url: https://tools.zmo.ai/webchatgpt
@@ -185,7 +197,7 @@
           url: https://github.com/anaclumos/bing-chat-for-all-browsers/releases/tag/1.0.7
           description: 在Chrome、Firefox等浏览器上访问必应聊天
         - title: ChatGPT for Google
-          logo: sider-icon.png
+          logo: google-icon.png
           url: https://chatgpt4google.com/
           description: ChatGPT侧边栏
     - term: 账号相关 ✈️
