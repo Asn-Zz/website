@@ -21,14 +21,18 @@
           logo: autogpt-icon.png
           url: https://auto.codepoem.top/
           description: 实现GPT-4完全自主的实验性开源项目
-        - title: 快捷指令
-          logo: mask-icon.svg
-          url: https://mask.codepoem.top/
-          description: 快捷指令大全
+        - title: Novel
+          logo: novel-ai-icon.png
+          url: https://novel.codepoem.top/
+          description: AI辅助写作(Markdown)
         - title: Stable Studio
           logo: dream-icon.png
           url: https://dream.codepoem.top/
           description: AI在线绘画(SDXL)
+        - title: 魔搭社区
+          logo: modelscope-icon.png
+          url: https://www.modelscope.cn/
+          description: AI模型社区，超过300+开源AI模型
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
