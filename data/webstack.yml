@@ -268,10 +268,10 @@
           logo: midjourney-icon.png
           url: https://www.midjourney.com/
           description: AI图像和插画生成工具
-        - title: Playground Ai 
-          logo: stablelm-icon.png
-          url: https://playgroundai.com/create
-          description: 文、图生图 1k/day(SDXL)
+        - title: Adobe Firefly
+          logo: adode-icon.png
+          url: https://firefly.adobe.com/
+          description: AI图片处理、在线P图
         - title: ClipDrop
           logo: clipdrop-icon.png
           url: https://clipdrop.co/
@@ -279,7 +279,19 @@
         - title: CivitAi 
           logo: tingwu-icon.png
           url: https://civitai.com/
-          description: 开源大模型示例
+          description: Stable Diffusion模型下载社区
+        - title: Playground Ai 
+          logo: stablelm-icon.png
+          url: https://playgroundai.com/create
+          description: 文、图生图 1k/day(SDXL)
+        - title: TensorArt 
+          logo: tensor-icon.png
+          url: https://tensor.art/
+          description: 免费的在线图像生成器和模型托管网站！
+        - title: freeflo 
+          logo: freeflo-icon.png
+          url: https://freeflo.ai/
+          description: 免费，精心挑选的AI图像
         - title: SD web UI 
           logo: ibm-watson-icon.png
           url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
