@@ -127,6 +127,10 @@
           logo: quivr-icon.png
           url: https://www.quivr.app/
           description: 文件分析工具
+        - title: Effidit
+          logo: effidit-icon.png
+          url: https://effidit.qq.com/demo
+          description: 智能创作助手
         - title: AiCodeConvert
           logo: convert-icon.png
           url: https://aicodeconvert.com/
@@ -169,7 +173,7 @@
           url: https://playgroundai.com/create
           description: 文、图生图(SDXL)
         - title: TensorArt 
-          logo: tensor-icon.png
+          logo: tensor-icon.svg
           url: https://tensor.art/
           description: 免费的在线图像生成器和模型托管网站！
         - title: ClipDrop
