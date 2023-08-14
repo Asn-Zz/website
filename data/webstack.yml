@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: AI聊天
-  icon: far fa-star
+  icon: fas fa-medal
   list:
     - term: 国内直连
       links:
@@ -29,10 +29,6 @@
           logo: dream-icon.png
           url: https://dream.codepoem.top/
           description: AI在线绘画(SDXL)
-        - title: 魔搭社区
-          logo: modelscope-icon.png
-          url: https://www.modelscope.cn/
-          description: AI模型社区，超过300+开源AI模型
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -109,16 +105,16 @@
           logo: perplexity-icon.png
           url: https://www.perplexity.ai/
           description: 可联网的ChatGPT3.5，类Bing Chat
-        - title: AI Playground
-          logo: vercel-icon.png
-          url: https://sdk.vercel.ai/docs
-          description: AI多模型演练场
         - title: FreeGPT
           logo: openai-gpt-model.png
           url: https://chat.ramxn.dev/chat/
           description: GPT 3.5/4，不需要API密钥
-    - term: 相关应用 ✈️
+    - term: 相关应用
       links:
+        - title: AI Playground
+          logo: vercel-icon.png
+          url: https://sdk.vercel.ai/docs
+          description: 用于构建AI驱动用户界面的开源库。
         - title: OpenGPT
           logo: opengpt-icon.png
           url: https://open-gpt.app/zh
@@ -131,15 +127,82 @@
           logo: quivr-icon.png
           url: https://www.quivr.app/
           description: 文件分析工具
+        - title: AiCodeConvert
+          logo: convert-icon.png
+          url: https://aicodeconvert.com/
+          description: 代码在线转换
         - title: 📴 WeChatGPT
           logo: wechat-icon.png
           url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
           qrcode: assets/images/logos/qrcode.png
           description: 你的私人微信机器人
-        - title: RunJS
-          logo: runjs-icon.png
-          url: https://runjs.work/code-converter/
-          description: 代码在线转换
+
+- taxonomy: AIGC
+  icon: fas fa-folder-open fa-lg
+  list:
+    - term: 大模型
+      links:
+        - title: HuggingFace
+          logo: huggingface-icon.png
+          url: AI开发社区
+          description: AI开发社区
+        - title: Civitai 
+          logo: civitai-icon.png
+          url: https://civitai.com/
+          description: AI艺术生成社区和模型共享中心
+        - title: 魔搭社区
+          logo: modelscope-icon.png
+          url: https://www.modelscope.cn/
+          description: AI模型社区，超过300+开源AI模型
+    - term: 图片生成 ✈️
+      links:
+        - title: Midjourney
+          logo: midjourney-icon.png
+          url: https://www.midjourney.com/
+          description: AI图像和插画生成工具
+        - title: Stable Diffusion
+          logo: stability-ai-icon.png
+          url: https://stablediffusionweb.com/
+          description: StabilityAI推出的文本到图像生成AI
+        - title: Playground Ai 
+          logo: stablelm-icon.png
+          url: https://playgroundai.com/create
+          description: 文、图生图(SDXL)
+        - title: TensorArt 
+          logo: tensor-icon.png
+          url: https://tensor.art/
+          description: 免费的在线图像生成器和模型托管网站！
+        - title: ClipDrop
+          logo: clipdrop-icon.png
+          url: https://clipdrop.co/
+          description: AI图片处理系列工具
+        - title: Adobe Firefly
+          logo: adode-icon.png
+          url: https://firefly.adobe.com/
+          description: AI图片处理、在线P图
+        - title: restorePhotos.io
+          logo: image-icon.png
+          url: https://www.restorephotos.io/restore
+          description: 人脸图像修复
+    - term: 相关应用
+      links:
+        - title: freeflo 
+          logo: freeflo-icon.png
+          url: https://freeflo.ai/
+          description: 免费，精心挑选的AI图像
+        - title: SD web UI 
+          logo: ibm-watson-icon.png
+          url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
+          description: Stable Diffusion整合包
+        - title: ComfyUI 
+          logo: ibm-watson-icon.png
+          url: https://github.com/comfyanonymous/ComfyUI
+          description: 功能强大且模块化的稳定扩散GUI，具有图形/节点界面。
+        - title: roop-win-GUI 
+          logo: translate-voclengine-icon.png
+          url: https://github.com/zhaoyun0071/roop-windows-GUI
+          description: roop换脸工具
+
 
 - taxonomy: 基础服务
   icon: fas fa-flask fa-lg
@@ -225,8 +288,9 @@
           url: https://www.meiguodizhi.com/
           description: 美国身份、信用卡生成器
 
+
 - taxonomy: 相关资料
-  icon: far fa-folder-open fa-lg
+  icon: fas fa-briefcase fa-lg
   list:
     - term: 知识分享
       links:
@@ -262,48 +326,6 @@
           logo: github-copilot-icon.png
           url: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
           description: 各种场景使用指南，学习怎么让它听你的话。
-    - term: AIGC
-      links:
-        - title: Midjourney
-          logo: midjourney-icon.png
-          url: https://www.midjourney.com/
-          description: AI图像和插画生成工具
-        - title: Adobe Firefly
-          logo: adode-icon.png
-          url: https://firefly.adobe.com/
-          description: AI图片处理、在线P图
-        - title: ClipDrop
-          logo: clipdrop-icon.png
-          url: https://clipdrop.co/
-          description: AI图片处理系列工具
-        - title: CivitAi 
-          logo: tingwu-icon.png
-          url: https://civitai.com/
-          description: Stable Diffusion模型下载社区
-        - title: Playground Ai 
-          logo: stablelm-icon.png
-          url: https://playgroundai.com/create
-          description: 文、图生图 1k/day(SDXL)
-        - title: TensorArt 
-          logo: tensor-icon.png
-          url: https://tensor.art/
-          description: 免费的在线图像生成器和模型托管网站！
-        - title: freeflo 
-          logo: freeflo-icon.png
-          url: https://freeflo.ai/
-          description: 免费，精心挑选的AI图像
-        - title: SD web UI 
-          logo: ibm-watson-icon.png
-          url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
-          description: Stable Diffusion整合包
-        - title: ComfyUI 
-          logo: ibm-watson-icon.png
-          url: https://github.com/comfyanonymous/ComfyUI
-          description: 功能强大且模块化的稳定扩散GUI，具有图形/节点界面。
-        - title: roop-win-GUI 
-          logo: translate-voclengine-icon.png
-          url: https://github.com/zhaoyun0071/roop-windows-GUI
-          description: roop换脸工具
     - term: 帮助文档
       links:
         - title: 开通 GPT Plus会员
