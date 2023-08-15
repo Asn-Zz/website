@@ -29,6 +29,10 @@
           logo: dream-icon.png
           url: https://dream.codepoem.top/
           description: AI在线绘画(SDXL)
+        - title: AiMapPro
+          logo: aimap-icon.png
+          url: https://www.aimappro.com/index.html
+          description: 精选全球优秀的AI网站
         - title: AI快讯
           logo: xiezuocat-ai-icon.png
           url: https://ai-bot.cn/
@@ -135,11 +139,11 @@
           logo: convert-icon.png
           url: https://aicodeconvert.com/
           description: 代码在线转换
-        - title: 📴 WeChatGPT
-          logo: wechat-icon.png
-          url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
-          qrcode: assets/images/logos/qrcode.png
-          description: 你的私人微信机器人
+        # - title: 📴 WeChatGPT
+        #   logo: wechat-icon.png
+        #   url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
+        #   qrcode: assets/images/logos/qrcode.png
+        #   description: 你的私人微信机器人
 
 - taxonomy: AIGC
   icon: fas fa-folder-open fa-lg
@@ -169,7 +173,7 @@
           url: https://stablediffusionweb.com/
           description: StabilityAI推出的文本到图像生成AI
         - title: Playground Ai 
-          logo: stablelm-icon.png
+          logo: playground-icon.png
           url: https://playgroundai.com
           description: 文、图生图(SDXL)
         - title: TensorArt 
@@ -180,6 +184,10 @@
           logo: lexica-icon.png
           url: https://lexica.art/
           description: 收录了SD内测期间的所有案例
+        - title: 无界AI
+          logo: wujie-icon.png
+          url: https://www.wujieai.com/
+          description: 提供一站式AI搜索-创作-交流-分享服务
         - title: Vega AI 创作平台
           logo: vega-icon.png
           url: https://rightbrain.art/
@@ -194,14 +202,18 @@
           description: AI图片处理、在线P图
     - term: 相关应用
       links:
+        - title: AI改图神器
+          logo: gaitu-icon.svg
+          url: https://img.logosc.cn/
+          description: 在线修改图片大小尺寸
+        - title: RestorePhotos
+          logo: image-icon.png
+          url: https://www.restorephotos.io/restore
+          description: 人脸图像修复
         - title: freeflo 
           logo: freeflo-icon.png
           url: https://freeflo.ai/
           description: 免费，精心挑选的AI图像
-        - title: restorePhotos.io
-          logo: image-icon.png
-          url: https://www.restorephotos.io/restore
-          description: 人脸图像修复
         - title: SD web UI 
           logo: ibm-watson-icon.png
           url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
@@ -245,10 +257,10 @@
           logo: github-copilot-icon.png
           url: https://github.com/pengzhile/pandora
           description: ChatGPT Web browser by token
-        - title: 其它站点 ✈️
-          logo: elements-of-ai-icon.png
-          url: https://cc.ai55.cc/
-          description: 这儿为你准备了众多免费好用的ChatGPT镜像站点
+        # - title: 其它站点 ✈️
+        #   logo: elements-of-ai-icon.png
+        #   url: https://cc.ai55.cc/
+        #   description: 这儿为你准备了众多免费好用的ChatGPT镜像站点
     - term: 脚本相关
       links:
         - title: Greasy Fork
@@ -271,9 +283,9 @@
           logo: google-icon.png
           url: https://tools.zmo.ai/webchatgpt
           description: 基于ChatGPT的网页分析
-        - title: BingChat for Google
+        - title: Bing Ai for Chrome
           logo: google-icon.png
-          url: https://github.com/anaclumos/bing-chat-for-all-browsers/releases/tag/1.0.7
+          url: https://chrome.google.com/webstore/detail/bing-ai-for-chrome/oofdkcckpabclngcdjnkhlldcfadlfmh
           description: 在Chrome、Firefox等浏览器上访问必应聊天
         - title: ChatGPT for Google
           logo: google-icon.png
@@ -348,3 +360,6 @@
           logo: openai-gpt-model.png
           url: https://mp.weixin.qq.com/s/1SZMgzQM0Y3IaAhAt2ZjSA
           description: 骚操作！教你用支付宝开通GPT Plus会员
+        - title: PS Beta(AI) 下载
+          url: https://www.macat.vip/24379.html
+          description: Adobe Photoshop 2023 for Mac v24.6 Beta 中文激活版 intel/M1通用(ps2023)
