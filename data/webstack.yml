@@ -170,12 +170,20 @@
           description: StabilityAI推出的文本到图像生成AI
         - title: Playground Ai 
           logo: stablelm-icon.png
-          url: https://playgroundai.com/create
+          url: https://playgroundai.com
           description: 文、图生图(SDXL)
         - title: TensorArt 
           logo: tensor-icon.svg
           url: https://tensor.art/
           description: 免费的在线图像生成器和模型托管网站！
+        - title: Lexica
+          logo: lexica-icon.png
+          url: https://lexica.art/
+          description: 收录了SD内测期间的所有案例
+        - title: Vega AI 创作平台
+          logo: vega-icon.png
+          url: https://rightbrain.art/
+          description: 国内专业的ai创作平台，支持文本生成图片，图片风格转换
         - title: ClipDrop
           logo: clipdrop-icon.png
           url: https://clipdrop.co/
@@ -184,16 +192,16 @@
           logo: adode-icon.png
           url: https://firefly.adobe.com/
           description: AI图片处理、在线P图
-        - title: restorePhotos.io
-          logo: image-icon.png
-          url: https://www.restorephotos.io/restore
-          description: 人脸图像修复
     - term: 相关应用
       links:
         - title: freeflo 
           logo: freeflo-icon.png
           url: https://freeflo.ai/
           description: 免费，精心挑选的AI图像
+        - title: restorePhotos.io
+          logo: image-icon.png
+          url: https://www.restorephotos.io/restore
+          description: 人脸图像修复
         - title: SD web UI 
           logo: ibm-watson-icon.png
           url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
@@ -332,11 +340,11 @@
           description: 各种场景使用指南，学习怎么让它听你的话。
     - term: 帮助文档
       links:
+        - title: Learn Prompt
+          logo: learnprompt-icon.png
+          url: https://www.learnprompt.pro/
+          description: 一个免费开源的 AIGC 课程
         - title: 开通 GPT Plus会员
           logo: openai-gpt-model.png
           url: https://mp.weixin.qq.com/s/1SZMgzQM0Y3IaAhAt2ZjSA
           description: 骚操作！教你用支付宝开通GPT Plus会员
-        - title: 国内使用 Midjourney
-          logo: midjourney-icon.png
-          url: https://mp.weixin.qq.com/s/jC2XqnsFRRdWLDjF5cy9KA
-          description: Midjourney进军Slack，直连前5代免费，赶快尝试吧！
