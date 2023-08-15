@@ -154,14 +154,18 @@
           logo: huggingface-icon.png
           url: AI开发社区
           description: AI开发社区
-        - title: Civitai 
-          logo: civitai-icon.png
-          url: https://civitai.com/
-          description: AI艺术生成社区和模型共享中心
+        - title: Replicate 
+          logo: replicate-icon.png
+          url: https://replicate.com/explore
+          description: 在线运行开源AI模型
         - title: 魔搭社区
           logo: modelscope-icon.png
           url: https://www.modelscope.cn/
           description: AI模型社区，超过300+开源AI模型
+        - title: Civitai 
+          logo: civitai-icon.png
+          url: https://civitai.com/
+          description: AI艺术生成社区和模型共享中心
     - term: 图片生成 ✈️
       links:
         - title: Midjourney
