@@ -152,7 +152,7 @@
       links:
         - title: HuggingFace
           logo: huggingface-icon.png
-          url: AI开发社区
+          url: https://huggingface.co/
           description: AI开发社区
         - title: Replicate 
           logo: replicate-icon.png
@@ -226,6 +226,10 @@
           logo: ibm-watson-icon.png
           url: https://github.com/comfyanonymous/ComfyUI
           description: 功能强大且模块化的稳定扩散GUI，具有图形/节点界面。
+        - title: Fooocus 
+          logo: ibm-watson-icon.png
+          url: https://github.com/lllyasviel/Fooocus
+          description: 最低配置运行 SDXL
         - title: roop-win-GUI 
           logo: translate-voclengine-icon.png
           url: https://github.com/zhaoyun0071/roop-windows-GUI
