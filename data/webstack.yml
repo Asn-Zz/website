@@ -210,10 +210,18 @@
           logo: gaitu-icon.svg
           url: https://img.logosc.cn/
           description: 在线修改图片大小尺寸
+        - title: ARC lab
+          logo: arc-icon.png
+          url: https://arc.tencent.com/zh/ai-demos/faceRestoration
+          description: 人脸图像处理
+        - title: 腾讯 AI 开放平台
+          logo: aiqq-icon.png
+          url: https://cloud.tencent.com/act/event/ocrdemo
+          description: 人工智能服务平台，超高识别准确率，适用多场景
         - title: RestorePhotos
           logo: image-icon.png
           url: https://www.restorephotos.io/restore
-          description: 人脸图像修复
+          description: 专业人脸图像修复
         - title: freeflo 
           logo: freeflo-icon.png
           url: https://freeflo.ai/
@@ -230,8 +238,8 @@
           logo: ibm-watson-icon.png
           url: https://github.com/lllyasviel/Fooocus
           description: 最低配置运行 SDXL
-        - title: roop-win-GUI 
-          logo: translate-voclengine-icon.png
+        - title: roop-win-GUI
+          logo: github-copilot-icon.png
           url: https://github.com/zhaoyun0071/roop-windows-GUI
           description: roop换脸工具
 
@@ -358,7 +366,7 @@
           logo: github-copilot-icon.png
           url: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
           description: 各种场景使用指南，学习怎么让它听你的话。
-    - term: 帮助文档
+    - term: 帮助中心
       links:
         - title: Learn Prompt
           logo: learnprompt-icon.png
@@ -371,3 +379,11 @@
         - title: PS Beta(AI) 下载
           url: https://www.macat.vip/24379.html
           description: Adobe Photoshop 2023 for Mac v24.6 Beta 中文激活版 intel/M1通用(ps2023)
+        - title: 帮小忙
+          logo: qbtool-icon.png
+          url: https://tool.browser.qq.com/
+          description: 腾讯在线工具箱平台
+        - title: 钉钉个人办公助手
+          logo: ding-icon.png
+          url: https://workspace.dingtalk.com/ahB4sr8MDfrxLRs7nczSpP
+          description: 探索未来的工作方式（AI）
