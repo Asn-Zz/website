@@ -204,6 +204,10 @@
           logo: adode-icon.png
           url: https://firefly.adobe.com/
           description: AI图片处理、在线P图
+        - title: freeflo 
+          logo: freeflo-icon.png
+          url: https://freeflo.ai/
+          description: 免费，精心挑选的AI图像
     - term: 相关应用
       links:
         - title: AI改图神器
@@ -218,14 +222,14 @@
           logo: aiqq-icon.png
           url: https://cloud.tencent.com/act/event/ocrdemo
           description: 人工智能服务平台，超高识别准确率，适用多场景
+        - title: WeShop
+          logo: weshop-icon.svg
+          url: https://www.weshop.com/
+          description: 国内首款AI商拍工具，专注电商产品图片的智能生成
         - title: RestorePhotos
           logo: image-icon.png
           url: https://www.restorephotos.io/restore
           description: 专业人脸图像修复
-        - title: freeflo 
-          logo: freeflo-icon.png
-          url: https://freeflo.ai/
-          description: 免费，精心挑选的AI图像
         - title: SD web UI 
           logo: ibm-watson-icon.png
           url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309

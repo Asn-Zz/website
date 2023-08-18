@@ -11,7 +11,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "Asn"
     description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
-    upload        = "https://asnli.github.io/"  # 左侧导航栏的"网站提交"
+    upload        = "https://notion.codepoem.top/"  # 左侧导航栏的"网站提交"
     about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = true					# 网站完全打开前预加载动画
