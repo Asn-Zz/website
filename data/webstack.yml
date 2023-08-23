@@ -222,6 +222,10 @@
           logo: aiqq-icon.png
           url: https://cloud.tencent.com/act/event/ocrdemo
           description: 人工智能服务平台，超高识别准确率，适用多场景
+        - title: 美图设计室
+          logo: xdesign-icon.png
+          url: https://www.x-design.com/
+          description: Al商业设计的无限可能
         - title: WeShop
           logo: weshop-icon.svg
           url: https://www.weshop.com/
