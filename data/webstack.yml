@@ -178,7 +178,7 @@
           description: StabilityAI推出的文本到图像生成AI
         - title: Playground Ai 
           logo: playground-icon.png
-          url: https://playgroundai.com
+          url: https://playgroundai.com/create
           description: 文、图生图(SDXL)
         - title: TensorArt 
           logo: tensor-icon.svg
@@ -211,11 +211,11 @@
     - term: 相关应用
       links:
         - title: AI改图神器
-          logo: gaitu-icon.svg
+          logo: img-logosc-icon.png
           url: https://img.logosc.cn/
           description: 在线修改图片大小尺寸
-        - title: ARC lab
-          logo: arc-icon.png
+        - title: ARC Lab
+          logo: tencent-arc-icon.png
           url: https://arc.tencent.com/zh/ai-demos/faceRestoration
           description: 人脸图像处理
         - title: 腾讯 AI 开放平台
@@ -227,7 +227,7 @@
           url: https://www.weshop.com/
           description: 国内首款AI商拍工具，专注电商产品图片的智能生成
         - title: RestorePhotos
-          logo: image-icon.png
+          logo: restorephotos-icon.png
           url: https://www.restorephotos.io/restore
           description: 专业人脸图像修复
         - title: SD web UI 
@@ -246,6 +246,10 @@
           logo: github-copilot-icon.png
           url: https://github.com/zhaoyun0071/roop-windows-GUI
           description: roop换脸工具
+        - title: OpenPromptStudio
+          logo: github-copilot-icon.png
+          url: https://www.restorephotos.io/restore
+          description: 可视化编辑、翻译提示词
 
 
 - taxonomy: 基础服务
