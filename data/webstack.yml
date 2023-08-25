@@ -93,6 +93,10 @@
           logo: tongyi-aliyun-icon.png
           url: https://tongyi.aliyun.com/
           description: 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+        - title: 天工AI搜索
+          logo: tiangong-ai-search-icon.png
+          url: https://search.tiangong.cn/
+          description: 昆仑万维最新推出的结合大模型的AI搜索引擎
         - title: Forefront
           logo: forefront-ai-icon.png
           url: https://www.forefront.ai/
@@ -135,6 +139,10 @@
           logo: effidit-icon.png
           url: https://effidit.qq.com/demo
           description: 智能创作助手
+        - title: 钉钉个人办公助手
+          logo: ding-icon.png
+          url: https://workspace.dingtalk.com/ahB4sr8MDfrxLRs7nczSpP
+          description: 探索未来的工作方式（AI）
         - title: AiCodeConvert
           logo: convert-icon.png
           url: https://aicodeconvert.com/
@@ -391,11 +399,11 @@
         - title: PS Beta(AI) 下载
           url: https://www.macat.vip/24379.html
           description: Adobe Photoshop 2023 for Mac v24.6 Beta 中文激活版 intel/M1通用(ps2023)
+        - title: transfer.zip
+          logo: github-copilot-icon.png
+          url: https://transfer.zip/
+          description: 在线文件传输平台免费、快速、加密
         - title: 帮小忙
           logo: qbtool-icon.png
           url: https://tool.browser.qq.com/
           description: 腾讯在线工具箱平台
-        - title: 钉钉个人办公助手
-          logo: ding-icon.png
-          url: https://workspace.dingtalk.com/ahB4sr8MDfrxLRs7nczSpP
-          description: 探索未来的工作方式（AI）
