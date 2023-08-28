@@ -128,7 +128,7 @@
           url: https://open-gpt.app/zh
           description: 海量的 ChatGPT 应用，创建属于自己的应用。
         - title: FLOWGPT
-          logo: flowgpt-icon.png
+          logo: flow-icon.png
           url: https://flowgpt.com/
           description: 查找并使用最佳提示词
         - title: Quivr
@@ -182,12 +182,16 @@
           description: AI图像和插画生成工具
         - title: Stable Diffusion
           logo: stability-ai-icon.png
-          url: https://stablediffusionweb.com/
+          url: https://www.liblibai.com/
           description: StabilityAI推出的文本到图像生成AI
         - title: Playground Ai 
           logo: playground-icon.png
           url: https://playgroundai.com/create
           description: 文、图生图(SDXL)
+        - title: LiblibAI
+          logo: liblibai-icon.png
+          url: https://stablediffusionweb.com/
+          description: 在线 Stable Diffusion WebUI
         - title: TensorArt 
           logo: tensor-icon.svg
           url: https://tensor.art/
@@ -199,7 +203,7 @@
         - title: 无界AI
           logo: wujie-icon.png
           url: https://www.wujieai.com/
-          description: 提供一站式AI搜索-创作-交流-分享服务
+          description: AI生成艺术插画和二次元人物
         - title: Vega AI 创作平台
           logo: vega-icon.png
           url: https://rightbrain.art/
@@ -212,10 +216,6 @@
           logo: adode-icon.png
           url: https://firefly.adobe.com/
           description: AI图片处理、在线P图
-        - title: freeflo 
-          logo: freeflo-icon.png
-          url: https://freeflo.ai/
-          description: 免费，精心挑选的AI图像
     - term: 相关应用
       links:
         - title: AI改图神器
@@ -231,7 +231,7 @@
           url: https://cloud.tencent.com/act/event/ocrdemo
           description: 人工智能服务平台，超高识别准确率，适用多场景
         - title: 美图设计室
-          logo: xdesign-icon.png
+          logo: meitu-icon.png
           url: https://www.x-design.com/
           description: Al商业设计的无限可能
         - title: WeShop
@@ -242,22 +242,10 @@
           logo: restorephotos-icon.png
           url: https://www.restorephotos.io/restore
           description: 专业人脸图像修复
-        - title: SD web UI 
-          logo: ibm-watson-icon.png
-          url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
-          description: Stable Diffusion整合包
-        - title: ComfyUI 
-          logo: ibm-watson-icon.png
-          url: https://github.com/comfyanonymous/ComfyUI
-          description: 功能强大且模块化的稳定扩散GUI，具有图形/节点界面。
-        - title: Fooocus 
-          logo: ibm-watson-icon.png
-          url: https://github.com/lllyasviel/Fooocus
-          description: 最低配置运行 SDXL
-        - title: roop-win-GUI
-          logo: github-copilot-icon.png
-          url: https://github.com/zhaoyun0071/roop-windows-GUI
-          description: roop换脸工具
+        - title: freeflo 
+          logo: freeflo-icon.png
+          url: https://freeflo.ai/
+          description: 免费，精心挑选的AI图像
         - title: OpenPromptStudio
           logo: github-copilot-icon.png
           url: https://www.restorephotos.io/restore
@@ -317,7 +305,7 @@
           description: 可连上网访问互联网的ChatGPT
         - title: WebPilot
           logo: google-icon.png
-          url: https://tools.zmo.ai/webchatgpt
+          url: https://www.webpilot.ai/
           description: 基于ChatGPT的网页分析
         - title: Bing Ai for Chrome
           logo: google-icon.png
@@ -386,6 +374,27 @@
           logo: github-copilot-icon.png
           url: https://github.com/PlexPt/awesome-chatgpt-prompts-zh
           description: 各种场景使用指南，学习怎么让它听你的话。
+    - term: 软件下载
+      links:
+        - title: SD web UI 
+          logo: ibm-watson-icon.png
+          url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
+          description: Stable Diffusion整合包
+        - title: ComfyUI 
+          logo: ibm-watson-icon.png
+          url: https://github.com/comfyanonymous/ComfyUI
+          description: 功能强大且模块化的稳定扩散GUI，具有图形/节点界面。
+        - title: Fooocus UI
+          logo: ibm-watson-icon.png
+          url: https://github.com/lllyasviel/Fooocus
+          description: 最低配置运行 SDXL
+        - title: Roop
+          logo: github-copilot-icon.png
+          url: https://github.com/zhaoyun0071/roop-windows-GUI
+          description: AI换脸工具
+        - title: PS Beta(AI) 下载
+          url: https://www.macat.vip/26862.html
+          description: Adobe Photoshop 2023 for Mac v24.6 Beta 中文激活版 intel/M1通用(ps2023)
     - term: 帮助中心
       links:
         - title: Learn Prompt
@@ -396,9 +405,6 @@
           logo: openai-gpt-model.png
           url: https://mp.weixin.qq.com/s/1SZMgzQM0Y3IaAhAt2ZjSA
           description: 骚操作！教你用支付宝开通GPT Plus会员
-        - title: PS Beta(AI) 下载
-          url: https://www.macat.vip/24379.html
-          description: Adobe Photoshop 2023 for Mac v24.6 Beta 中文激活版 intel/M1通用(ps2023)
         - title: transfer.zip
           logo: github-copilot-icon.png
           url: https://transfer.zip/
