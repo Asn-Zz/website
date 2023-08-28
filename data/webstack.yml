@@ -160,20 +160,24 @@
       links:
         - title: HuggingFace
           logo: huggingface-icon.png
-          url: https://huggingface.co/
+          url: https://huggingface.co/spaces
           description: AI开发社区
         - title: Replicate 
           logo: replicate-icon.png
           url: https://replicate.com/explore
           description: 在线运行开源AI模型
-        - title: 魔搭社区
-          logo: modelscope-icon.png
-          url: https://www.modelscope.cn/
-          description: AI模型社区，超过300+开源AI模型
         - title: Civitai 
           logo: civitai-icon.png
-          url: https://civitai.com/
+          url: https://civitai.com/models
           description: AI艺术生成社区和模型共享中心
+        - title: 魔搭社区
+          logo: modelscope-icon.png
+          url: https://www.modelscope.cn/studios
+          description: AI模型社区，超过300+开源AI模型
+        - title: 飞桨 AI Studio
+          logo: paddlepaddle-icon.png
+          url: https://aistudio.baidu.com/application/center
+          description: 人工智能学习实训社区
     - term: 图片生成 ✈️
       links:
         - title: Midjourney
@@ -401,6 +405,10 @@
           logo: learnprompt-icon.png
           url: https://www.learnprompt.pro/
           description: 一个免费开源的 AIGC 课程
+        - title: Nenly同学
+          logo: stability-ai-icon.png
+          url: https://space.bilibili.com/1814756990/channel/collectiondetail?sid=1285674
+          description: Stable Diffusion 系统课程
         - title: 开通 GPT Plus会员
           logo: openai-gpt-model.png
           url: https://mp.weixin.qq.com/s/1SZMgzQM0Y3IaAhAt2ZjSA
