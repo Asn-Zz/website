@@ -3,6 +3,27 @@
         <a href="javascript:" id="go-to-up" class="btn rounded-circle go-up m-1" rel="go-top">
             <i class="iconfont icon-to-up"></i>
         </a>
+        {{ if not (eq $.Site.Params.qweather.key "") }}
+        <div class="btn rounded-circle weather m-1">
+            <div id="he-plugin-simple" style="position: relative;">
+                <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.14&key={{ $.Site.Params.qweather.key }}"></script>
+                <div data-v-41ba7e2c="" class="s-sticker"
+                    style="font-size: 1.4em; cursor: pointer; padding: 7px 2px; background-color: transparent;">
+                    <div data-v-41ba7e2c="" style="width: 0px;"></div>
+                    <div data-v-7d48daab="" data-v-41ba7e2c="" class="s-sticker-tmp module"
+                        style="font-size: 14px; color: rgb(136, 136, 136); vertical-align: middle;">25°C</div>
+                    <div data-v-7d48daab="" data-v-41ba7e2c="" class="s-sticker-cond module"
+                        style="vertical-align: middle;"><img data-v-7d48daab=""
+                            src="https://widget-s.qweather.net/img/plugin/190516/icon/c/101n.png"
+                            style="width: 24px; height: 24px;"></div>
+                    <div data-v-41ba7e2c="" style="width: 100%;"></div>
+                </div>
+                <div data-v-41ba7e2c=""><!----></div>
+            </div>
+            <script>WIDGET = { CONFIG: { "modules": "02", "background": "5", "tmpColor": "888", "tmpSize": "14", "cityColor": "888", "citySize": "14", "aqiSize": "14", "weatherIconSize": "24", "alertIconSize": "18", "padding": "7px 2px 7px 2px", "shadow": "1", "language": "auto", "fixed": "false", "vertical": "middle", "horizontal": "left", "key": "a922adf8928b4ac1ae7a31ae7375e191" } }</script>
+            <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
+        </div>
+        {{ end }}
         <!-- 右下角搜索  -->
         <a href="https://notion.codepoem.top/" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip"
             data-placement="left" title="联系我们">

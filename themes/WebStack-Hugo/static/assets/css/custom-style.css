@@ -1,7 +1,7 @@
 /*调整全局字体大小*/
 body,html{height:100%;margin:0;padding:0;border:0;font-size:14px;}
 
-/* 
+
 body:before {
     content: '';
     position: fixed;
@@ -13,7 +13,7 @@ body:before {
     background-image: url(https://www.ainav.cn/img/bg.png);
     background-size: cover;
     z-index: -1;
-} */
+}
 
 /*左导航悬浮sidebar-menu-inner宽度调整为90px*/
 .sidebar-popup.sidebar-menu-inner > div > ul > li.sidebar-item>ul{position:absolute;top:0px;left:10px;width:90px;z-index:99}
@@ -114,11 +114,11 @@ footer.main-footer .footer-text a:hover {
 .panel .panel-body a:hover {color: #979898;}
 
 /*网格背景*/
-.io-grey-mode .page-container .grid-bg {
+/* .io-grey-mode .page-container .grid-bg {
     background-image: linear-gradient(rgba(50, 0, 0, 0.05) 1px, transparent 0), linear-gradient(90deg, rgba(50, 0, 0, 0.05) 1px, transparent 0); 
     background-size: 15px 15px;
     background-color: #d8d8d8;
-}
+} */
 
 
 
