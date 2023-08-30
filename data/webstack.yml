@@ -81,6 +81,18 @@
           logo: google-bard-favicon.png
           url: https://bard.google.com/
           description: Google推出的AI聊天对话机器人Bard
+        - title: Forefront
+          logo: forefront-ai-icon.png
+          url: https://www.forefront.ai/
+          description: 免费版基于GPT-4的AI聊天机器人
+        - title: Poe
+          logo: quora-poe-icon.png
+          url: https://poe.com/ChatGPT
+          description: 问答社区Quora推出的问答机器人工具
+        - title: ChatALL
+          logo: maxaime-icon.svg
+          url: https://github.com/sunner/ChatALL
+          description: AI多模型演练场
         - title: 文心一言
           logo: baidu-yiyan-icon.png
           url: https://yiyan.baidu.com/
@@ -97,18 +109,6 @@
           logo: tiangong-ai-search-icon.png
           url: https://search.tiangong.cn/
           description: 昆仑万维最新推出的结合大模型的AI搜索引擎
-        - title: Forefront
-          logo: forefront-ai-icon.png
-          url: https://www.forefront.ai/
-          description: 免费版基于GPT-4的AI聊天机器人
-        - title: Poe
-          logo: quora-poe-icon.png
-          url: https://poe.com/ChatGPT
-          description: 问答社区Quora推出的问答机器人工具
-        - title: ChatALL
-          logo: maxaime-icon.svg
-          url: https://github.com/sunner/ChatALL
-          description: AI多模型演练场
         - title: Perplexity AI
           logo: perplexity-icon.png
           url: https://www.perplexity.ai/
@@ -119,18 +119,10 @@
           description: GPT 3.5/4，不需要API密钥
     - term: 相关应用
       links:
-        - title: AI Playground
-          logo: vercel-icon.png
-          url: https://sdk.vercel.ai/docs
-          description: 用于构建AI驱动用户界面的开源库。
         - title: OpenGPT
           logo: opengpt-icon.png
           url: https://open-gpt.app/zh
           description: 海量的 ChatGPT 应用，创建属于自己的应用。
-        - title: FLOWGPT
-          logo: flow-icon.png
-          url: https://flowgpt.com/
-          description: 查找并使用最佳提示词
         - title: Quivr
           logo: quivr-icon.png
           url: https://www.quivr.app/
@@ -147,6 +139,14 @@
           logo: convert-icon.png
           url: https://aicodeconvert.com/
           description: 代码在线转换
+        - title: FLOWGPT
+          logo: flow-icon.png
+          url: https://flowgpt.com/
+          description: 查找并使用最佳提示词
+        - title: AI Playground
+          logo: vercel-icon.png
+          url: https://sdk.vercel.ai/docs
+          description: 用于构建AI驱动用户界面的开源库。
         # - title: 📴 WeChatGPT
         #   logo: wechat-icon.png
         #   url: https://api.pwmqr.com/qrcode/create/?url=正在研发中
@@ -217,7 +217,7 @@
           url: https://clipdrop.co/
           description: AI图片处理系列工具
         - title: Adobe Firefly
-          logo: adode-icon.png
+          logo: adobe-icon.png
           url: https://firefly.adobe.com/
           description: AI图片处理、在线P图
     - term: 相关应用
@@ -246,6 +246,10 @@
           logo: restorephotos-icon.png
           url: https://www.restorephotos.io/restore
           description: 专业人脸图像修复
+        - title: Moses Ai
+          logo: mosesai-icon.png
+          url: https://qr.mosesai.net/
+          description: AI 艺术二维码
         - title: freeflo 
           logo: freeflo-icon.png
           url: https://freeflo.ai/
@@ -380,10 +384,10 @@
           description: 各种场景使用指南，学习怎么让它听你的话。
     - term: 软件下载
       links:
-        - title: SD web UI 
+        - title: 绘世
           logo: ibm-watson-icon.png
           url: https://www.bilibili.com/video/BV1iM4y1y7oA/?spm_id_from=333.999.0.0&vd_source=7fcf6fcc1425233e22fa86246af65309
-          description: Stable Diffusion整合包
+          description: Stable Diffusion WebUI 整合包
         - title: ComfyUI 
           logo: ibm-watson-icon.png
           url: https://github.com/comfyanonymous/ComfyUI
@@ -392,7 +396,7 @@
           logo: ibm-watson-icon.png
           url: https://github.com/lllyasviel/Fooocus
           description: 最低配置运行 SDXL
-        - title: Roop
+        - title: Roop-win-ui
           logo: github-copilot-icon.png
           url: https://github.com/zhaoyun0071/roop-windows-GUI
           description: AI换脸工具
