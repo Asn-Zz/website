@@ -1,7 +1,7 @@
 ---
 
-- taxonomy: AI聊天
-  icon: fas fa-medal
+- taxonomy: 聊天
+  icon: fab fa-facebook-messenger icon-fw icon-lg
   list:
     - term: 国内直连
       links:
@@ -153,8 +153,8 @@
         #   qrcode: assets/images/logos/qrcode.png
         #   description: 你的私人微信机器人
 
-- taxonomy: AIGC
-  icon: fas fa-folder-open fa-lg
+- taxonomy: 绘画
+  icon: fas fa-palette icon-fw icon-lg
   list:
     - term: 大模型
       links:
@@ -192,18 +192,22 @@
           logo: playground-icon.png
           url: https://playgroundai.com/create
           description: 文、图生图(SDXL)
-        - title: LiblibAI
-          logo: liblibai-icon.png
-          url: https://stablediffusionweb.com/
-          description: 在线 Stable Diffusion WebUI
         - title: TensorArt 
           logo: tensor-icon.svg
           url: https://tensor.art/
           description: 免费的在线图像生成器和模型托管网站！
-        - title: Lexica
-          logo: lexica-icon.png
-          url: https://lexica.art/
-          description: 收录了SD内测期间的所有案例
+        - title: LiblibAI
+          logo: liblibai-icon.png
+          url: https://www.liblibai.com/
+          description: 在线 Stable Diffusion WebUI
+        - title: 吐司 AI
+          logo: tusi-icon.png
+          url: https://tusi.art/
+          description: 可在线生图的 AI 模型分享社区，还是免费的。
+        - title: 海艺 AI
+          logo: haiyi-icon.png
+          url: https://www.haiyiai.com/home
+          description: 免费易用的AI绘画工具，让你无需专业技能，轻松生成大量高质量图片
         - title: 无界AI
           logo: wujie-icon.png
           url: https://www.wujieai.com/
@@ -212,6 +216,10 @@
           logo: vega-icon.png
           url: https://rightbrain.art/
           description: 国内专业的ai创作平台，支持文本生成图片，图片风格转换
+        - title: Lexica
+          logo: lexica-icon.png
+          url: https://lexica.art/
+          description: 收录了SD内测期间的所有案例
         - title: ClipDrop
           logo: clipdrop-icon.png
           url: https://clipdrop.co/
@@ -234,6 +242,14 @@
           logo: aiqq-icon.png
           url: https://cloud.tencent.com/act/event/ocrdemo
           description: 人工智能服务平台，超高识别准确率，适用多场景
+        - title: 稿定AI
+          logo: gaoding-design-icon.png
+          url: https://www.gaoding.com/ai
+          description: 一站式AI创意工具集合，AI绘图、场景生成，商品合成
+        - title: 即时AI
+          logo: js-design-icon.png
+          url: https://js.design/ai
+          description: 即时设计推出的由文本描述生成可编辑的原型设计稿
         - title: 美图设计室
           logo: meitu-icon.png
           url: https://www.x-design.com/
@@ -242,14 +258,14 @@
           logo: weshop-icon.svg
           url: https://www.weshop.com/
           description: 国内首款AI商拍工具，专注电商产品图片的智能生成
-        - title: RestorePhotos
-          logo: restorephotos-icon.png
-          url: https://www.restorephotos.io/restore
-          description: 专业人脸图像修复
         - title: Moses Ai
           logo: mosesai-icon.png
           url: https://qr.mosesai.net/
           description: AI 艺术二维码
+        - title: RestorePhotos
+          logo: restorephotos-icon.png
+          url: https://www.restorephotos.io/restore
+          description: 专业人脸图像修复
         - title: freeflo 
           logo: freeflo-icon.png
           url: https://freeflo.ai/
@@ -260,8 +276,26 @@
           description: 可视化编辑、翻译提示词
 
 
-- taxonomy: 基础服务
-  icon: fas fa-flask fa-lg
+- taxonomy: 多媒体
+  icon: fas fa-video icon-fw icon-lg
+  list:
+    - term: 视音频
+      links:
+        - title: Runway
+          logo: runwayml-icon.png
+          url: https://runwayml.com/green-screen/
+          description: 强大的AI视频制作工具，绿幕抠像、视频合成等
+        - title: 腾讯智影
+          logo: zenvideo-qq-icon.png
+          url: https://zenvideo.qq.com/
+          description: 腾讯推出的在线智能视频创作平台
+        - title: 通义听悟
+          logo: tingwu-icon.png
+          url: https://tingwu.aliyun.com/
+          description: 阿里推出的AI会议转录工具，万语千言，心领神悟
+
+- taxonomy: 服务
+  icon: fas fa-briefcase icon-fw icon-lg
   list:
     - term: 登录相关
       links:
@@ -276,7 +310,7 @@
         - title: Pool Token
           logo: github-copilot-icon.png
           url: https://ai.fakeopen.com/pool
-          description: 把Share Tokens组成池令牌，以便API使用时并发。
+          description: 把Share Tokens组成池令牌,以便API使用时并发。
         - title: PigCha
           logo: github-copilot-icon.png
           url: http://run.weaksharedptr.com/register?share_id=e90183e1-d736-4400-a6c6-096014055e2f
@@ -345,8 +379,8 @@
           description: 美国身份、信用卡生成器
 
 
-- taxonomy: 相关资料
-  icon: fas fa-briefcase fa-lg
+- taxonomy: 资料
+  icon: fas fa-graduation-cap icon-fw icon-lg
   list:
     - term: 知识分享
       links:
