@@ -293,6 +293,14 @@
           logo: tingwu-icon.png
           url: https://tingwu.aliyun.com/
           description: 阿里推出的AI会议转录工具，万语千言，心领神悟
+        - title: BiliGPT
+          logo: bibigpt-icon.png
+          url: https://b.jimmylv.cn/
+          description: 一键总结B站音视频内容，让AI替你概括总结
+        # - title: AI课代表
+        #   logo: kedaibiao-icon.png
+        #   url: https://www.kedaibiao.pro/welcome
+        #   description: 免费一键总结音视频内容, AI课代表, B站学习助手, 字幕提取
 
 - taxonomy: 服务
   icon: fas fa-briefcase icon-fw icon-lg
@@ -459,3 +467,7 @@
           logo: qbtool-icon.png
           url: https://tool.browser.qq.com/
           description: 腾讯在线工具箱平台
+        - title: 视频地址解析工具
+          logo: iiilab-icon.png
+          url: https://bilibili.iiilab.com/
+          description: 哔哩哔哩视频解析下载
