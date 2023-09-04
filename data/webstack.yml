@@ -7,6 +7,48 @@
       links:
         - title: ChatGPT
           logo: chatgpt-icon.png
+          url: https://chat.zhile.io/
+          description: OpenAI旗下AI对话工具
+        - title: New Bing
+          logo: new-bing-icon.png
+          url: https://bing.github1s.tk/
+          description: 结合了ChatGPT功能的必应
+        - title: Claude
+          logo: anthropic-icon.png
+          url: https://www.claudeai.ai
+          description: ChatGPT的最为有力的竞争对手之一
+        - title: Promat GPT
+          logo: rytr-me-icon.png
+          url: https://chatgpt1.nextweb.fun/
+          description: 自带快捷指令
+        - title: AutoGPT
+          logo: autogpt-icon.png
+          url: https://auto-agentgpt.com/
+          description: 实现GPT-4完全自主的实验性开源项目
+        - title: 快捷指令
+          logo: mask-icon.svg
+          url: https://www.aishort.top/
+          description: 快捷指令大全
+        - title: Stable Studio
+          logo: dream-icon.png
+          url: https://beta.dreamstudio.ai/
+          description: AI在线绘画(SDXL)
+        - title: AiMapPro
+          logo: aimap-icon.png
+          url: https://www.aimappro.com/index.html
+          description: 精选全球优秀的AI网站
+        - title: AI-Bot
+          logo: xiezuocat-ai-icon.png
+          url: https://ai-bot.cn/
+          description: AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站
+        - title: Jay仓库
+          logo: jay-icon.png
+          url: https://www.likejay.cn/
+          description: 互联网资源集大成者
+    - term: 备用
+      links:
+        - title: ChatGPT
+          logo: chatgpt-icon.png
           url: https://chat.codepoem.top/
           description: OpenAI旗下AI对话工具
         - title: New Bing
@@ -28,44 +70,6 @@
         - title: Stable Studio
           logo: dream-icon.png
           url: https://dream.codepoem.top/
-          description: AI在线绘画(SDXL)
-        - title: AiMapPro
-          logo: aimap-icon.png
-          url: https://www.aimappro.com/index.html
-          description: 精选全球优秀的AI网站
-        - title: AI-Bot
-          logo: xiezuocat-ai-icon.png
-          url: https://ai-bot.cn/
-          description: AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站
-        - title: Jay仓库
-          logo: jay-icon.png
-          url: https://www.likejay.cn/
-          description: 互联网资源集大成者
-    - term: 备用
-      links:
-        - title: ChatGPT
-          logo: chatgpt-icon.png
-          url: https://chat.zhile.io/
-          description: OpenAI旗下AI对话工具
-        - title: New Bing
-          logo: new-bing-icon.png
-          url: https://bing.github1s.tk/
-          description: 结合了ChatGPT功能的必应
-        - title: Promat GPT
-          logo: rytr-me-icon.png
-          url: https://chatgpt1.nextweb.fun/
-          description: 自带快捷指令
-        - title: AutoGPT
-          logo: autogpt-icon.png
-          url: https://auto-agentgpt.com/
-          description: 实现GPT-4完全自主的实验性开源项目
-        - title: 快捷指令
-          logo: mask-icon.svg
-          url: https://www.aishort.top/
-          description: 快捷指令大全
-        - title: Stable Studio
-          logo: dream-icon.png
-          url: https://beta.dreamstudio.ai/
           description: AI在线绘画(SDXL)
     - term: 官方网站 ✈️
       links:
@@ -262,6 +266,10 @@
           logo: mosesai-icon.png
           url: https://qr.mosesai.net/
           description: AI 艺术二维码
+        - title: Palette Ai
+          logo: palette-icon.png
+          url: https://palette.fm/
+          description: AI图片调色上色
         - title: RestorePhotos
           logo: restorephotos-icon.png
           url: https://www.restorephotos.io/restore
@@ -279,7 +287,7 @@
 - taxonomy: 多媒体
   icon: fas fa-video icon-fw icon-lg
   list:
-    - term: 视音频
+    - term: 多媒体
       links:
         - title: Runway
           logo: runwayml-icon.png
@@ -297,10 +305,14 @@
           logo: bibigpt-icon.png
           url: https://b.jimmylv.cn/
           description: 一键总结B站音视频内容，让AI替你概括总结
-        # - title: AI课代表
-        #   logo: kedaibiao-icon.png
-        #   url: https://www.kedaibiao.pro/welcome
-        #   description: 免费一键总结音视频内容, AI课代表, B站学习助手, 字幕提取
+        - title: 分离人声
+          logo: kedaibiao-icon.png
+          url: https://vocalremover.org/zh/
+          description: 用强大的人工智能算法将声音从音乐中分离出来
+        - title: 文本转3D图像
+          logo: meshy-icon.png
+          url: https://www.meshy.ai/
+          description: 3D 生成 AI 工具箱
 
 - taxonomy: 服务
   icon: fas fa-briefcase icon-fw icon-lg
@@ -393,29 +405,21 @@
     - term: 知识分享
       links:
         - title: InfoQ
-          logo: aidaxue-icon.png
+          logo: infoq-icon.png
           url: https://www.infoq.cn/
           description: 促进软件开发及相关领域知识与创新的传播
         - title: 量子位
-          logo: aidaxue-icon.png
+          logo: lzw-icon.png
           url: https://www.qbitai.com/
           description: 追踪人工智能新趋势，报道科技行业新突破
         - title: 机器之心
-          logo: aidaxue-icon.png
+          logo: jqh-icon.png
           url: https://www.jiqizhixin.com/
           description: 企业人工智能服务
         - title: AI研究所
           logo: aidaxue-icon.png
           url: https://www.aiyjs.com/
           description: 国内外AI工具资讯首发站
-        - title: AI智库
-          logo: feishu-minutes-icon.png
-          url: https://ki6j1b0d92h.feishu.cn/wiki/wikcnkdKkLz7Xh4O6JEdKyn8cMf
-          description: AI 行业动态不定期更新
-        - title: AI产品工具服务
-          logo: feishu-minutes-icon.png
-          url: https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB
-          description: AI产品工具服务。
         - title: GPT 开源项目
           logo: github-copilot-icon.png
           url: https://github.com/EwingYangs/awesome-open-gpt
