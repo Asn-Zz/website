@@ -417,7 +417,7 @@
           url: https://www.jiqizhixin.com/
           description: 企业人工智能服务
         - title: AI研究所
-          logo: aidaxue-icon.png
+          logo: yjs-icon.png
           url: https://www.aiyjs.com/
           description: 国内外AI工具资讯首发站
         - title: GPT 开源项目
@@ -471,6 +471,10 @@
           logo: qbtool-icon.png
           url: https://tool.browser.qq.com/
           description: 腾讯在线工具箱平台
+        - title: 即时工具
+          logo: 67tool-icon.png
+          url: https://www.67tool.com/
+          description: 致力打造安全、快捷、好用的在线工具箱~
         - title: 视频地址解析工具
           logo: iiilab-icon.png
           url: https://bilibili.iiilab.com/
