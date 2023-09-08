@@ -81,6 +81,22 @@
           logo: google-bard-favicon.png
           url: https://bard.google.com/
           description: Google推出的AI聊天对话机器人Bard
+        - title: 讯飞星火认知大模型
+          logo: xinghuo-xfyun-icon.png
+          url: http://xinghuo.xfyun.cn/
+          description: 科大讯飞推出的类ChatGPT的讯飞星火认知大模型
+        - title: 腾讯混元大模型
+          logo: hunyuan-tencent-icon.png
+          url: https://hunyuan.tencent.com/
+          description: 由腾讯研发的大语言模型，具备强大的中文创作能力。
+        - title: 通义千问
+          logo: tongyi-aliyun-icon.png
+          url: https://tongyi.aliyun.com/
+          description: 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+        - title: 文心一言
+          logo: baidu-yiyan-icon.png
+          url: https://yiyan.baidu.com/
+          description: 百度推出的基于文心大模型的AI对话互动工具
         - title: Forefront
           logo: forefront-ai-icon.png
           url: https://www.forefront.ai/
@@ -89,26 +105,6 @@
           logo: quora-poe-icon.png
           url: https://poe.com/ChatGPT
           description: 问答社区Quora推出的问答机器人工具
-        - title: ChatALL
-          logo: maxaime-icon.svg
-          url: https://github.com/sunner/ChatALL
-          description: AI多模型演练场
-        - title: 文心一言
-          logo: baidu-yiyan-icon.png
-          url: https://yiyan.baidu.com/
-          description: 百度推出的基于文心大模型的AI对话互动工具
-        - title: 讯飞星火认知大模型
-          logo: xinghuo-xfyun-icon.png
-          url: http://xinghuo.xfyun.cn/
-          description: 科大讯飞推出的类ChatGPT的讯飞星火认知大模型
-        - title: 通义千问
-          logo: tongyi-aliyun-icon.png
-          url: https://tongyi.aliyun.com/
-          description: 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
-        - title: 天工AI搜索
-          logo: tiangong-ai-search-icon.png
-          url: https://search.tiangong.cn/
-          description: 昆仑万维最新推出的结合大模型的AI搜索引擎
         - title: Perplexity AI
           logo: perplexity-icon.png
           url: https://www.perplexity.ai/
@@ -117,6 +113,14 @@
           logo: openai-gpt-model.png
           url: https://chat.ramxn.dev/chat/
           description: GPT 3.5/4，不需要API密钥
+        - title: ChatALL
+          logo: maxaime-icon.svg
+          url: https://github.com/sunner/ChatALL
+          description: AI多模型演练场
+        - title: 天工AI搜索
+          logo: tiangong-ai-search-icon.png
+          url: https://search.tiangong.cn/
+          description: 昆仑万维最新推出的结合大模型的AI搜索引擎
     - term: 相关应用
       links:
         - title: OpenGPT
