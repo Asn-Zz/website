@@ -15,7 +15,7 @@
           description: 结合了ChatGPT功能的必应
         - title: Claude
           logo: anthropic-icon.png
-          url: https://www.claudeai.ai
+          url: https://www.finechat.ai/
           description: ChatGPT的最为有力的竞争对手之一
         - title: Promat GPT
           logo: rytr-me-icon.png
