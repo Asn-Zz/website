@@ -190,7 +190,7 @@
           description: AI图像和插画生成工具
         - title: Stable Diffusion
           logo: stability-ai-icon.png
-          url: https://www.liblibai.com/
+          url: https://liblib.ai/
           description: StabilityAI推出的文本到图像生成AI
         - title: Playground Ai 
           logo: playground-icon.png
@@ -341,7 +341,7 @@
           description: CLOUDFLARE 出品的VPN
         - title: Pandora
           logo: github-copilot-icon.png
-          url: https://github.com/pengzhile/pandora
+          url: https://github.com/zhile-io/pandora
           description: ChatGPT Web browser by token
         # - title: 其它站点 ✈️
         #   logo: elements-of-ai-icon.png
