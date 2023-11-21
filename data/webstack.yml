@@ -19,7 +19,7 @@
           description: ChatGPT的最为有力的竞争对手之一
         - title: Promat GPT
           logo: rytr-me-icon.png
-          url: https://chatgpt1.nextweb.fun/
+          url: https://nb.nextweb.fun/
           description: 自带快捷指令
         - title: AutoGPT
           logo: autogpt-icon.png
@@ -81,14 +81,14 @@
           logo: google-bard-favicon.png
           url: https://bard.google.com/
           description: Google推出的AI聊天对话机器人Bard
+        - title: Copilot
+          logo: microsoft-copilot-icon.png
+          url: https://copilot.microsoft.com/
+          description: 微软推出的网页版Copilot助手
         - title: 讯飞星火认知大模型
           logo: xinghuo-xfyun-icon.png
           url: http://xinghuo.xfyun.cn/
           description: 科大讯飞推出的类ChatGPT的讯飞星火认知大模型
-        - title: 腾讯混元大模型
-          logo: hunyuan-tencent-icon.png
-          url: https://hunyuan.tencent.com/
-          description: 由腾讯研发的大语言模型，具备强大的中文创作能力。
         - title: 通义千问
           logo: tongyi-aliyun-icon.png
           url: https://tongyi.aliyun.com/
@@ -97,6 +97,14 @@
           logo: baidu-yiyan-icon.png
           url: https://yiyan.baidu.com/
           description: 百度推出的基于文心大模型的AI对话互动工具
+        - title: 腾讯混元大模型
+          logo: hunyuan-tencent-icon.png
+          url: https://hunyuan.tencent.com/
+          description: 由腾讯研发的大语言模型，具备强大的中文创作能力。
+        - title: 智谱清言
+          logo: zhipu-ai-chatglm-icon.png
+          url: https://chatglm.cn/
+          description: 智谱AI推出的生成式Al助手，基于ChatGLM 2
         - title: Forefront
           logo: forefront-ai-icon.png
           url: https://www.forefront.ai/
@@ -135,6 +143,10 @@
           logo: effidit-icon.png
           url: https://effidit.qq.com/demo
           description: 智能创作助手
+        - title: 星火文档问答
+          logo: xinghuo-xfyun-icon.png
+          url: https://chatdoc.xfyun.cn/
+          description: 基于讯飞星火大模型的AI文档和知识库问答助手
         - title: 钉钉个人办公助手
           logo: ding-icon.png
           url: https://workspace.dingtalk.com/ahB4sr8MDfrxLRs7nczSpP
@@ -341,7 +353,7 @@
           description: CLOUDFLARE 出品的VPN
         - title: Pandora
           logo: github-copilot-icon.png
-          url: https://github.com/zhile-io/pandora
+          url: https://chat-shared.zhile.io/
           description: ChatGPT Web browser by token
         # - title: 其它站点 ✈️
         #   logo: elements-of-ai-icon.png
