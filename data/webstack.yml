@@ -105,30 +105,18 @@
           logo: zhipu-ai-chatglm-icon.png
           url: https://chatglm.cn/
           description: 智谱AI推出的生成式Al助手，基于ChatGLM 2
-        - title: Forefront
-          logo: forefront-ai-icon.png
-          url: https://www.forefront.ai/
-          description: 免费版基于GPT-4的AI聊天机器人
-        - title: Poe
-          logo: quora-poe-icon.png
-          url: https://poe.com/ChatGPT
-          description: 问答社区Quora推出的问答机器人工具
         - title: Perplexity AI
           logo: perplexity-icon.png
           url: https://www.perplexity.ai/
           description: 可联网的ChatGPT3.5，类Bing Chat
-        - title: FreeGPT
-          logo: openai-gpt-model.png
-          url: https://chat.ramxn.dev/chat/
-          description: GPT 3.5/4，不需要API密钥
-        - title: ChatALL
-          logo: maxaime-icon.svg
-          url: https://github.com/sunner/ChatALL
-          description: AI多模型演练场
-        - title: 天工AI搜索
-          logo: tiangong-ai-search-icon.png
-          url: https://search.tiangong.cn/
-          description: 昆仑万维最新推出的结合大模型的AI搜索引擎
+        - title: Kimi Chat
+          logo: moonshot-ai-icon.png
+          url: https://kimi.moonshot.cn/
+          description: 支持文件和在线内容总结
+        - title: Coze
+          logo: coze-ai-icon.png
+          url: https://www.coze.com/
+          description: 字节推出的Al机器人和智能体创建平台
     - term: 相关应用
       links:
         - title: OpenGPT
