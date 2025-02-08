@@ -1,0 +1,16 @@
+providers:
+  - provider: openai
+    name: deepseek
+    base_url: https://api.siliconflow.cn/v1
+    api_key: sk-kwubozhsdyfvyfioklxmfcwitpoppntahzwftorohzwgepks
+    model:
+      - deepseek-ai/DeepSeek-R1
+      - deepseek-ai/DeepSeek-V3
+
+tokens:
+  - api_key: sk-asn
+    model:
+      - all
+
+server:
+    default_model: deepseek-ai/DeepSeek-V3
